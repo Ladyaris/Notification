@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notification</string>
+    <string name="txt_send_notification">Send Notification</string>
+    <string name="txt_pencet">Pencet</string>
+    <string name="txt_hai">Hai</string>
+    <string name="txt_halo">Halo</string>
+</resources>
